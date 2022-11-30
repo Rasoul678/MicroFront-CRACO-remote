@@ -3,7 +3,7 @@ const cracoModuleFederation = require("craco-module-federation");
 module.exports = {
   mode: "development",
   output: {
-    publicPath: "http://localhost:3001/",
+    publicPath: "https://rasoul678.github.io/MicroFront-CRACO-remote/",
   },
   // Adding Server
   devServer: {

@@ -1,7 +1,8 @@
 {
   "name": "remote",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://rasoul678.github.io/MicroFront-CRACO-remote/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -17,6 +18,8 @@
     "build": "craco build",
     "test": "craco test",
     "serve": "npx serve -s build -l 3001",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -39,6 +42,7 @@
   },
   "devDependencies": {
     "@craco/craco": "^7.0.0",
-    "craco-module-federation": "^1.1.0"
+    "craco-module-federation": "^1.1.0",
+    "gh-pages": "^4.0.0"
   }
 }
