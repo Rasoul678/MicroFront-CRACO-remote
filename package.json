@@ -16,6 +16,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "serve": "npx serve -s build -l 3001",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
