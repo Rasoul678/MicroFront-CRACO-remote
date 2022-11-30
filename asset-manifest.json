@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/main.1a6f1c95.js",
+    "remote.js": "/Rasoul678/MicroFront-CRACO-remote/remoteEntry.js",
+    "static/css/69.43a0e2c9.chunk.css": "/Rasoul678/MicroFront-CRACO-remote/static/css/69.43a0e2c9.chunk.css",
+    "static/js/69.0850686e.chunk.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/69.0850686e.chunk.js",
+    "static/js/791.cc03c3fa.chunk.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/791.cc03c3fa.chunk.js",
+    "static/js/673.3b0dd247.chunk.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/673.3b0dd247.chunk.js",
+    "static/js/164.824f48e3.chunk.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/164.824f48e3.chunk.js",
+    "static/js/165.95b40bfd.chunk.js": "/Rasoul678/MicroFront-CRACO-remote/static/js/165.95b40bfd.chunk.js",
+    "index.html": "/Rasoul678/MicroFront-CRACO-remote/index.html",
+    "main.1a6f1c95.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/main.1a6f1c95.js.map",
+    "remoteEntry.js.map": "/Rasoul678/MicroFront-CRACO-remote/remoteEntry.js.map",
+    "69.43a0e2c9.chunk.css.map": "/Rasoul678/MicroFront-CRACO-remote/static/css/69.43a0e2c9.chunk.css.map",
+    "69.0850686e.chunk.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/69.0850686e.chunk.js.map",
+    "791.cc03c3fa.chunk.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/791.cc03c3fa.chunk.js.map",
+    "673.3b0dd247.chunk.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/673.3b0dd247.chunk.js.map",
+    "164.824f48e3.chunk.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/164.824f48e3.chunk.js.map",
+    "165.95b40bfd.chunk.js.map": "/Rasoul678/MicroFront-CRACO-remote/static/js/165.95b40bfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1a6f1c95.js"
+  ]
+}
